@@ -1,0 +1,4 @@
+/backup/config/backup_src.txt
+/etc/**/*.conf
+/etc/ssh/sshd_config
+/home/thrithedawg/.config/*
